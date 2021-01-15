@@ -9,7 +9,7 @@
     "api-spec-converter": "2.0.1",
     "autoprefixer": "^6.3.5",
     "json-schema-ref-parser": "6.0.1",
-    "node-sass": "4.9.3",
+    "node-sass": "4.13.1",
     "npm-run-all": "^1.7.0",
     "onchange": "^2.2.0",
     "postcss-cli": "^2.5.1",
